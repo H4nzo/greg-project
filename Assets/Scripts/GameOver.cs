@@ -4,8 +4,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using TMPro;
 using Hanzo;
-using UnityEngine.SocialPlatforms.Impl;
-using TreeEditor;
+
 
 public class GameOver : MonoBehaviour
 {
